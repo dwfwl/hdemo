@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\coding\hdemo\hdemo\include\Model\Mesh.h(48,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\coding\hdemo\hdemo\src\main.cpp(104,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  hdemo.vcxproj -> D:\coding\hdemo\x64\Debug\hdemo.exe
